@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Brian Trainer</string>
+    <string name="_5_12">5 + 12</string>
+    <string name="_0_0">0/0</string>
+    <string name="_30s">30s</string>
+    <string name="_2">2</string>
+    <string name="play_again">Play Again</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Block04</string>
+    <string name="looping">Looping</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="music">Music</string>
+</resources>
